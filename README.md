@@ -1,4 +1,4 @@
 # The-Rooms
 The official game of "The Rooms"
 
-Ill be ading updates, just wait
+Whe are in public Beta 1.0
